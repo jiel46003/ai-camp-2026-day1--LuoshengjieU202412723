@@ -7,7 +7,7 @@
     "陈彬宇",
     "梁睿之"
   ],
-  "repository_url": "https://github.com/jiel46003/ai-camp-2026-day1-罗圣杰U202412723",
+  "repository_url": "https://github.com/jiel46003/ai-camp-2026-day1-LuoshengjieU202412723",
   "run_command": "python train.py",
   "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
